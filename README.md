@@ -86,7 +86,7 @@ Ensure you have the following installed:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ramxcodes/valorant-remastered.git
+   git clone https://github.com/lingesh77/Valorant.git
    cd valorant-remastered
    ```
 2. Install dependencies:
